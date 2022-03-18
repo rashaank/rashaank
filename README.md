@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RashmiShankar
-- 🌱 I’m currently learning : Devops, Python..
+- 🌱 I’m currently learning : GitHub, Devops, Python..
 - 📫 How to reach me : rashmishankar30@gmail.com
 
 <!---
