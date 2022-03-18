@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rashaank
+- 👋 Hi, I’m @RashmiShankar
 - 🌱 I’m currently learning : Devops, Python..
 - 📫 How to reach me : rashmishankar30@gmail.com
 
